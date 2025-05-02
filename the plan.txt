@@ -1,0 +1,13 @@
+make a sketch that resembles a reimu fumo
+
+make her able to hop around
+
+Give her at least 2 colour schemes (default, blue lostword)
+
+Allow different size fumos to be spawned in
+-> Press a button to spawn a new reimu in (random colour, random size, at mouse cursor);
+
+Let them hop into each other and bounce off each other
+
+Funni mode: while a key (h?) and the mouse are held, spawn many reimus (random colour, random size, at mouse cursor)
+
