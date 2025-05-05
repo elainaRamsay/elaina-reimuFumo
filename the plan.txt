@@ -11,3 +11,10 @@ Let them hop into each other and bounce off each other
 
 Funni mode: while a key (h?) and the mouse are held, spawn many reimus (random colour, random size, at mouse cursor)
 
+
+Second pivot?
+Only 1 reimu spawned, but let user grow and shrink her
+She can jump around. Upon hitting a wall she reverse direction
+
+Multiple colour schemes (like amogus)
+(Reimu red, Blue reimu, Sanae green, Mystia/Yuyu pink, Marisa B/W
