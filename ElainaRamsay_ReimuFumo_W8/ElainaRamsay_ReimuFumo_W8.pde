@@ -1,16 +1,17 @@
 int selectedSize;
 // int numOfReimu; // way to count how many spawned in 
+Reimu reimu;
 
 
 void setup(){
   size(400,400);
   selectedSize = 50;
-  
+  reimu = new Reimu(width/2, height/2, selectedSize);
 }
 
 void draw(){
-  showSelectedSize();
-  
+  //showSelectedSize();
+  reimu.display();
 }
 
 void showSelectedSize(){
